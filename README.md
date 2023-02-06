@@ -7,3 +7,5 @@ I am writing this in the code editor Visual Studio Code in Markdown.
 
 
 I pulled those changes from the repositoy on GitHub and now am adding this final line in VS Code and then will commit and push these changes and send the repo URL to the instructor.
+
+Looks like the first step was to "publish branch", then I should be able to just "push"
